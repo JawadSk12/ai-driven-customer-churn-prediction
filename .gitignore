@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Large files
+*.csv
+*.xlsx
+
+# Model artifacts (optional if very large)
+# models/*.pkl
